@@ -1,3 +1,3 @@
 const countDistance = require("./solution");
 
-console.log(countDistance(312051))
+console.log(countDistance(312051));
